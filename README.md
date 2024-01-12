@@ -6,7 +6,9 @@
 <br>
 
 - 🤖 <b>Open to Work:</b> I'm an eager cybersecurity professional seeking exciting Red Teaming or SOC opportunities to flex my expertise. If you have openings, drop me a line!
+
 - 🔭 <b>I’m currently working on:</b> Fueling my cybersecurity passion daily! I'm taking on a LinkedIn challenge, diving into a new cybersecurity topic every day, and documenting my learnings by nightfall. Connect with me on LinkedIn - let's chat security!
+
 - 📫 <b>How to reach me:</b> [LinkedIn](https://linkedin.com/in/chris-dabre)
 
 <br>
