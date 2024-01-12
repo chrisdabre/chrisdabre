@@ -2,7 +2,7 @@
    
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=chris-dabre" target="_blank">Follow on LinkedIn</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-chrisdabre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-dabre/)](https://www.linkedin.com/in/varadbhogayata/)
+[![Linkedin Badge](https://img.shields.io/badge/-chrisdabre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-dabre/)](https://www.linkedin.com/in/chris-dabre/)
 [![Gmail Badge](https://img.shields.io/badge/-chris.dabre@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chris.dabre@gmail.com)](mailto:chris-dabre@gmail.com) 
 
 
