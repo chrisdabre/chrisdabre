@@ -11,7 +11,7 @@
 
 - 📫 <b>How to reach me:</b> [LinkedIn](https://linkedin.com/in/chris-dabre)
 
-- 📌 <b>My Resume:</b> [Resume](https://github.com/chrisdabre/chrisdabre/blob/147f7b98cb9a6e8851286dcf0324466d7f2ede93/Chris%20Dabre%20-%20Resume.pdf)
+- 📌 <b>My Resume:</b> [Resume](https://github.com/chrisdabre/chrisdabre/blob/9fb3e1fad7702d88bcd31e7ef1ad303a0571f716/Chris%20Dabre%20-%20Resume.pdf)
 
 <br>
 <br>
