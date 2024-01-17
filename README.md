@@ -5,8 +5,17 @@
 
 <br>
 
-- 🤖 <b>Open to Work:</b> I'm an eager cybersecurity professional seeking exciting Red Teaming or SOC opportunities to flex my expertise. If you have openings, drop me a line!
 
+
+## 🛠️ Skills
+- **Core Competencies:** Penetration Testing, Asset Management, Network Forensics, Log Analysis, Process Optimization, IAM, MFA Cloud Security, Data Visualization, and Compliance Testing.
+- **Tools and Technologies:** Burpsuite, Wireshark, ELK (Elasticsearch, Logstash, Kibana) SIEM, Metasploit, Nmap, Nessus, Github, Netsparker, MS Office Suite, Apache Server, phpMyAdmin, AWS, Azure, and Rapid7. Programming Languages: Python, C and C++, Java, SQL, HTML, PHP, and CSS.
+- **Operating Systems:** Kali Linux, Windows, MacOS, Ubuntu, Android, iOS.
+- **Frameworks:** NIST, MITRE ATT&CK, CIS, NIST, ISO, GDPR, PCI-DSS.
+- **Database:** SQL, MongoDB, Microsoft Access, MySQL.
+
+<br>
+- 🤖 <b>Open to Work:</b> I'm an eager cybersecurity professional seeking exciting Red Teaming or SOC opportunities to flex my expertise. If you have openings, drop me a line!
 - 🔭 <b>I’m currently working on:</b> Fueling my cybersecurity passion daily! I'm taking on a LinkedIn challenge, diving into a new cybersecurity topic every day, and documenting my learnings by nightfall. Connect with me on LinkedIn - let's chat security!
 
 - 📫 <b>How to reach me:</b> [LinkedIn](https://linkedin.com/in/chris-dabre)
