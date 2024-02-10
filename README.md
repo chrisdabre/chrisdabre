@@ -8,7 +8,7 @@
 
 
 ## 🛠️ Skills
-- **Core Competencies:** Penetration Testing, Asset Management, Network Forensics, Log Analysis, Process Optimization, IAM, MFA Cloud Security, Data Visualization, and Compliance Testing.
+- **Core Competencies:** Vulnerability Analysis, Cloud Security, Penetration Testing, Asset Management, Network Forensics, Log Analysis, Process Optimization, IAM, MFA, Data Visualization, and Compliance Testing.
 - **Tools and Technologies:** Burpsuite, Wireshark, ELK (Elasticsearch, Logstash, Kibana) SIEM, Metasploit, Nmap, Nessus, Github, Netsparker, MS Office Suite, Apache Server, phpMyAdmin, AWS, Azure, and Rapid7. Programming Languages: Python, C and C++, Java, SQL, HTML, PHP, and CSS.
 - **Operating Systems:** Kali Linux, Windows, MacOS, Ubuntu, Android, iOS.
 - **Frameworks:** NIST, MITRE ATT&CK, CIS, NIST, ISO, GDPR, PCI-DSS.
